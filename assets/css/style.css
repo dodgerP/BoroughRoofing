@@ -127,6 +127,34 @@ header {
     letter-spacing: 2px;
 }
 
+#photo {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+    padding: 2px;
+}
+
+#photo img {
+    width: 100%;
+
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777;
+}
+
 /*------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
