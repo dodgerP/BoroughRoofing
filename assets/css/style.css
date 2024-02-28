@@ -41,6 +41,14 @@ h4 {
     color: #fafafa;
 }
 
+.form-row {
+    padding-top: 10px;
+}
+
+.button {
+    padding-bottom: 10px;
+}
+
 /*------------------------------Heading*/
 
 header {
