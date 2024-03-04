@@ -47,6 +47,7 @@ h4 {
 
 .button {
     padding-bottom: 10px;
+    display: inline-block;
 }
 
 /*------------------------------Heading*/
@@ -152,12 +153,12 @@ header {
 }
 
 .social-networks li {
-    display: inline;
+    display: none;
 }
 
 .social-networks i {
     font-size: 160%;
-    margin: 1%;
+    margin: 10%;
     padding: 5%;
     color: #777;
 }
